@@ -1,3 +1,3 @@
 Download do git https://git-scm.com/downloads
 
-git bash e um terminal externdo para otimixar o uso do GIT
+git bash e um terminal extendido para otimizar o uso do GIT
